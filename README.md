@@ -6,8 +6,9 @@
 ![Lucas Data Analyst GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-santos-data-analyst&show_icons=true&theme=tokyonight)
 
 
-## Tecnologias que eu utilizo no meu dia a dia 👇
 
+
+## Tecnologias que eu utilizo no meu dia a dia 👇
 
 <div style="display: inline_block"><br/>
     <h3>💽 Databases<h3>
