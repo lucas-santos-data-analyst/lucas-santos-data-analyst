@@ -17,14 +17,14 @@ No momento tenho algumas habilidades, porém estou criando a disciplina de ter u
 
 📚 Estou sempre procurando aprender alguma coisa nova não só na área de Data mas também na vida como um todo. Acho que o meu melhor Hobby é escrever os poemas que escuto por ai, no meu caderno.
 
-🍀 Os valores que me guiam são, principalmente:
-☑ Amor de Cristo
-☑ Disciplina
-☑ Integridade
-☑ Lealdade
-☑ Escuta
-☑ Empatia
-☑ Compaixão
+🍀 Os valores que me guiam são, principalmente: <br/>
+☑ Amor de Cristo <br/>
+☑ Disciplina <br/> 
+☑ Integridade <br/>
+☑ Lealdade <br/>
+☑ Escuta <br/>
+☑ Empatia <br/>
+☑ Compaixão <br/> <br/> <br/>
 
 💡 "Eu queria ser um sujeito bom <br/>
  A única coisa que eu admiro, é . . . o bom <br/>
