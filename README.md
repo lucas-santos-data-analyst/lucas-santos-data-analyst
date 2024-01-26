@@ -4,6 +4,35 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luquinhas.adriano?igsh=MWJlOTJoZm41bG1rZA%3D%3D&utm_source=qr) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5514998755704&text=Oi!%20vi%20seu%20perfil,%20no%20Github/Linkedin.%20Podemos%20Conversar?) [![Lucas'CV](https://img.shields.io/badge/Lucas'CV-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/overlay/1706074331538/single-media-viewer/?profileId=ACoAACvbaCgBYmLno7bRLLqy6uZjqfrPvJ1ynIA)
 [![Spotify's Lucas](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/lucassantos_skyfall)
 
+## Um pouco sobre mim ⬇️⬇️⬇️
+
+👨‍💼 Sou estudante de Ciência de Dados na Fatec de Ourinhos, apesar de não ser o meu forte em questão de desempenho na áreas de exatas durante o ensino médio, porém sempre tive uma vocação em ajudar as pessoas de alguma forma e a tecnologia está sendo o meu passaporte pra que isso aconteça. Acredito que obsessão supera o talento sempre! Eu consigo, eu tenho chance!
+
+No momento tenho algumas habilidades, porém estou criando a disciplina de ter uma rotina e estratégia de estudos para aprimorá-las:
+- Tenho um grande desempenho com SQL em comandos DQL, DDL e DML e estou estudando os demais DCL e DTL
+- Estou iniciando na programação com Python e já consigo fazer muita coisa legal e para dados é uma mar de oportunidades
+- Adoro prototipar alguma coisa no FIGMA uma ótima ferramenta.
+- Power BI sem dúvidas tem me ajudado a descrever os dados que consumo e disponibilizam e isso tem sido ótimo!
+- Tudo tem um começo e saber que o Excel é muito mais que uma simples planilha me abriu as portas para sair da área de negócio para a área de tecnologia.
+
+📚 Estou sempre procurando aprender alguma coisa nova não só na área de Data mas também na vida como um todo. Acho que o meu melhor Hobby é escrever os poemas que escuto por ai, no meu caderno.
+
+🍀 Os valores que me guiam são, principalmente:
+☑ Amor de Cristo
+☑ Disciplina
+☑ Integridade
+☑ Lealdade
+☑ Escuta
+☑ Empatia
+☑ Compaixão
+
+💡 "Eu queria ser um sujeito bom
+ A única coisa que eu admiro, é . . . o bom
+ O único ideal que eu teria na vida,
+ Se fosse possível realizá-lo,
+ era ser . . . um santo"
+ - Nelson Rodrigues
+
 ![Lucas Data Analyst GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-santos-data-analyst&show_icons=true&theme=tokyonight)
 
 
