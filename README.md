@@ -26,12 +26,12 @@ No momento tenho algumas habilidades, porém estou criando a disciplina de ter u
 ☑ Empatia
 ☑ Compaixão
 
-💡 "Eu queria ser um sujeito bom
- A única coisa que eu admiro, é . . . o bom
- O único ideal que eu teria na vida,
- Se fosse possível realizá-lo,
- era ser . . . um santo"
- - Nelson Rodrigues
+💡 "Eu queria ser um sujeito bom <br/>
+ A única coisa que eu admiro, é . . . o bom <br/>
+ O único ideal que eu teria na vida, <br/>
+ Se fosse possível realizá-lo, <br/>
+ era ser . . . um santo" <br/>
+ - Nelson Rodrigues <br/><br/><br/>
 
 ![Lucas Data Analyst GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-santos-data-analyst&show_icons=true&theme=tokyonight)
 
