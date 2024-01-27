@@ -6,13 +6,13 @@
 
 ## Um pouco sobre mim ⬇️⬇️⬇️
 
-👨‍💼 Sou estudante de Ciência de Dados na Fatec de Ourinhos, apesar de não ser o meu forte em questão de desempenho na áreas de exatas durante o ensino médio, porém sempre tive uma vocação em ajudar as pessoas de alguma forma e a tecnologia está sendo o meu passaporte pra que isso aconteça. Acredito que obsessão supera o talento sempre! Eu consigo, eu tenho chance!
+👨‍💼 Sou estudante de Ciência de Dados na Fatec de Ourinhos apesar de não ser o meu forte em questão de desempenho na áreas de exatas durante o ensino médio. Porém sempre tive uma vocação em ajudar as pessoas de alguma forma e a tecnologia está sendo o meu passaporte para que isso aconteça. Acredito que obsessão supera o talento sempre! Eu consigo, eu tenho chance!
 
 No momento tenho algumas habilidades, porém estou criando a disciplina de ter uma rotina e estratégia de estudos para aprimorá-las:
 - Tenho um grande desempenho com SQL em comandos DQL, DDL e DML e estou estudando os demais DCL e DTL
 - Estou iniciando na programação com Python e já consigo fazer muita coisa legal e para dados é uma mar de oportunidades
 - Adoro prototipar alguma coisa no FIGMA uma ótima ferramenta.
-- Power BI sem dúvidas tem me ajudado a descrever os dados que consumo e disponibilizam e isso tem sido ótimo!
+- Power BI sem dúvidas tem me ajudado a descrever os dados que consumo e disponibilizar para outras pessoas essa descrição tem sido ótimo!
 - Tudo tem um começo e saber que o Excel é muito mais que uma simples planilha me abriu as portas para sair da área de negócio para a área de tecnologia.
 
 📚 Estou sempre procurando aprender alguma coisa nova não só na área de Data mas também na vida como um todo. Acho que o meu melhor Hobby é escrever os poemas que escuto por ai, no meu caderno.
