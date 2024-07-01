@@ -6,7 +6,7 @@
 
 ## Um pouco sobre mim ⬇️⬇️⬇️
 
-👨‍💼 Estudante de Engenharia de Software na UniFio de Ourinhos, venho me aprofunando em tecnologia e iniciando meus estudo em Desenvolvimento Front-End. Porém sempre tive uma vocação em ajudar as pessoas e de alguma forma a tecnologia está sendo o meu passaporte para que isso aconteça. Acredito que obsessão supera o talento sempre! Eu consigo, eu tenho chance!
+👨‍💼 Estudante de Engenharia de Software na UniFio de Ourinhos, venho me aprofunando em tecnologia e iniciando meus estudos em Desenvolvimento Front-End. Porém sempre tive uma vocação em ajudar as pessoas e de alguma forma a tecnologia está sendo o meu passaporte para que isso aconteça. Acredito que obsessão supera o talento sempre! Eu consigo, eu tenho chance!
 
 No momento tenho algumas habilidades, com a disciplina de ter uma rotina e estratégia de estudos tenho a oportunidade de aprimorá-las:
 - Tenho um grande desempenho com SQL em comandos DQL, DDL e DML em PostgreSQL, ainda sim estudando os demais DCL e DTL
