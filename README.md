@@ -1,5 +1,5 @@
 ###  <img src="https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width= 20px> Olá, eu sou o Lucas! (Ele / Dele)
-⚛️ Software Engeneering At UniFio | 1/8
+⚛️ Software Engeneering At UniFio | 2/8
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luquinhas.adriano?igsh=MWJlOTJoZm41bG1rZA%3D%3D&utm_source=qr) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5514998755704&text=Oi!%20vi%20seu%20perfil,%20no%20Github/Linkedin.%20Podemos%20Conversar?) [![Lucas'CV](https://img.shields.io/badge/Lucas'CV-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/overlay/1706074331538/single-media-viewer/?profileId=ACoAACvbaCgBYmLno7bRLLqy6uZjqfrPvJ1ynIA)
 [![Spotify's Lucas](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/lucassantos_skyfall)
