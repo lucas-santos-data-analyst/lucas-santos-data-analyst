@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luquinhas.adriano?igsh=MWJlOTJoZm41bG1rZA%3D%3D&utm_source=qr) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5514998755704&text=Oi!%20vi%20seu%20perfil,%20no%20Github/Linkedin.%20Podemos%20Conversar?) [![Lucas'CV](https://img.shields.io/badge/Lucas'CV-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/overlay/1706074331538/single-media-viewer/?profileId=ACoAACvbaCgBYmLno7bRLLqy6uZjqfrPvJ1ynIA)
 [![Spotify's Lucas](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/lucassantos_skyfall)
 
+<a href="https://app.rocketseat.com.br/me/lucas-adriano-dos-santos-09497"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=lucas-adriano-dos-santos-09497&type=card" width="280" alt="Lucas Adriano dos Santos's Rocket ID"/></a>
+
 ## Um pouco sobre mim ⬇️⬇️⬇️
 
 👨‍💼 Estudante de Engenharia de Software na UniFio de Ourinhos, venho me aprofunando em tecnologia e iniciando meus estudos em Desenvolvimento Front-End. Porém sempre tive uma vocação em ajudar as pessoas e de alguma forma a tecnologia está sendo o meu passaporte para que isso aconteça. Acredito que obsessão supera o talento sempre! Eu consigo, eu tenho chance!
