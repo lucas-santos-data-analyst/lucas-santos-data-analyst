@@ -8,34 +8,15 @@
 
 ## Um pouco sobre mim ⬇️⬇️⬇️
 
-👨‍💼 Estudante de Engenharia de Software na UniFio de Ourinhos, venho me aprofunando em tecnologia e iniciando meus estudos em Desenvolvimento Front-End. Porém sempre tive uma vocação em ajudar as pessoas e de alguma forma a tecnologia está sendo o meu passaporte para que isso aconteça. Acredito que obsessão supera o talento sempre! Eu consigo, eu tenho chance!
+👨‍💼 Graduando de Engenharia de Software na UniFio de Ourinhos, tenho adiquirido sólida trajetória como Analista de Dados no ramo de Telecom bem como nesses ambientes pude contribuir na gestão, melhoria e padronização de processos dentro do ambiente corporativo nos setores que fiquei envolvido como financeiro, contratos, operações e modelagem, estruturação e análise de dados. Ajudei a construir visão para as gestões envolvidas nos processos que aconteciam em seus setores e como resultado da minha última colocação no mercado, ajudei a reduzir uma média de encargos pagos pela empresa de R$ 3.000,00 para uma média menor que R$ 40,00. Possuo experiência em consulta, manipulação, transformação de dados e criação de relatórios através de ferramentas de BI como Metabase, Power BI e Looker Studio tanto gerenciais como operacionais.
+Busco atuar como Analista de Dados/BI Junior, Estagiário de Desenvolvimento de Software fullstack (Dev, PO ou UX|UI) ou Áreas de Negócio Financeiro. 
 
 No momento tenho algumas habilidades, com a disciplina de ter uma rotina e estratégia de estudos tenho a oportunidade de aprimorá-las:
 - Tenho um grande desempenho com SQL em comandos DQL, DDL e DML em PostgreSQL, ainda sim estudando os demais DCL e DTL
-- Estou iniciando na programação com Python e já consigo fazer muita coisa legal e para dados é uma mar de oportunidades
-- Adoro prototipar alguma coisa no FIGMA que de longe umas das melhores ferramentas do meu dia a dia.
-- Power BI sem dúvidas tem me ajudado a descrever os dados que consumo e disponibilizar para outras pessoas essa descrição tem sido ótimo!
-- Tudo tem um começo e saber que o Excel é muito mais que uma simples planilha, essa ferramenta me abriu as portas para sair da área de negócio para a área de tecnologia.
-
-📚 Estou sempre procurando aprender alguma coisa nova não só na área de Data mas também na vida como um todo. Acho que o meu melhor Hobby é escrever os poemas que escuto por ai, no meu caderno.
-
-🍀 Os valores que me guiam são, principalmente: <br/>
-☑ Amor de Cristo <br/>
-☑ Disciplina <br/> 
-☑ Integridade <br/>
-☑ Lealdade <br/>
-☑ Escuta <br/>
-☑ Empatia <br/>
-☑ Compaixão <br/> <br/> <br/>
-
-A melhor frase que me faz refletir no que é importante é...
-
-💡 "Eu queria ser um sujeito bom <br/>
- A única coisa que eu admiro, é . . . o bom <br/>
- O único ideal que eu teria na vida, <br/>
- Se fosse possível realizá-lo, <br/>
- era ser . . . um santo" <br/>
- - Nelson Rodrigues <br/><br/><br/>
+- Estou a um tempo usando python para conectar base de dados ao Power BI ou automatizar consultas e integração com planilhas
+- Utilizo a um bom tempo Figma para prototipar soluções e fluxos de informações
+- Power BI tenho um conhecimento bem amplo em nível junior/pleno (Em transição)
+- Utilizo bastante google sheets atrelado ao python para disponibilizar dados aos times que trabalho através da sua API.
 
 ![Lucas Data Analyst GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-santos-data-analyst&show_icons=true&theme=tokyonight)
 
