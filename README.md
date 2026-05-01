@@ -34,9 +34,11 @@
 <tr>
 <td valign="top" width="60%">
 
-Graduando em **Engenharia de Software** pela UniFio de Ourinhos, com sólida trajetória como **Analista de Dados no setor de Telecom**. Ao longo da minha carreira, contribuí com gestão, melhoria e padronização de processos nos setores financeiro, de contratos, operações, modelagem e análise de dados.
-Curso também na **Rocketseat** formação de dados, full stack, Metodologias Ágeis e Linguagens de programação para complementar meu conhecimento na Faculdade
-Participo também do Projeto do **BIT - Bureau de Inovação e Tecnologia** da UNIFIO como Engenheiro de Requisitos, Product Oowner e Designer UX|UI no desenvolvimento de aplicação mobile para atender o sistema de ensino do Colégio Santo Antônio de Ourinhos.
+- Graduando em **Engenharia de Software** pela UniFio de Ourinhos, com sólida trajetória como **Analista de Dados no setor de Telecom**. Ao longo da minha carreira, contribuí com gestão, melhoria e padronização de processos nos setores financeiro, de contratos, operações, modelagem e análise de dados.
+
+- Curso também na **Rocketseat** formação de dados, full stack, Metodologias Ágeis e Linguagens de programação para complementar meu conhecimento na Faculdade
+
+- Participo também do Projeto do **BIT - Bureau de Inovação e Tecnologia** da UNIFIO como Engenheiro de Requisitos, Product Oowner e Designer UX|UI no desenvolvimento de aplicação mobile para atender o sistema de ensino do Colégio Santo Antônio de Ourinhos.
 
 > 💡 Na minha última experiência, ajudei a reduzir uma média de encargos pagos pela empresa de **R$ 3.000,00 para menos de R$ 40,00/mês** — um resultado concreto de análise e automação de dados.
 
