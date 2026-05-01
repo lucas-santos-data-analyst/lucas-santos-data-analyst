@@ -1,50 +1,108 @@
-###  <img src="https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width= 20px> Olá, eu sou o Lucas!
-⚛️ Software Engeneering At UniFio | 4/8
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/luquinhas.adriano?igsh=MWJlOTJoZm41bG1rZA%3D%3D&utm_source=qr) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5514998755704&text=Oi!%20vi%20seu%20perfil,%20no%20Github/Linkedin.%20Podemos%20Conversar?) [![Lucas'CV](https://img.shields.io/badge/Lucas'CV-2B579A?style=flat&logo=microsoft-word&logoColor=white)](https://www.linkedin.com/in/lucas-data-analyst/overlay/1706074331538/single-media-viewer/?profileId=ACoAACvbaCgBYmLno7bRLLqy6uZjqfrPvJ1ynIA)
-[![Spotify's Lucas](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/lucassantos_skyfall)
+  <img src="https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif" width="28px" />
+  
+  # Olá, eu sou o Lucas Adriano! 👋
 
-<a href="https://app.rocketseat.com.br/me/lucas-adriano-dos-santos-09497"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=lucas-adriano-dos-santos-09497&type=card" width="280" alt="Lucas Adriano dos Santos's Rocket ID"/></a>
+  **Analista de Dados · Engenharia de Software · UniFio Ourinhos (5/8)**
+  
+  <p>
+    <a href="https://www.linkedin.com/in/lucas-data-analyst/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/luquinhas.adriano">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=+5514998755704&text=Oi!%20vi%20seu%20perfil,%20no%20Github/Linkedin.%20Podemos%20Conversar?">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/lucas-data-analyst/overlay/1706074331538/single-media-viewer/?profileId=ACoAACvbaCgBYmLno7bRLLqy6uZjqfrPvJ1ynIA">
+      <img src="https://img.shields.io/badge/Currículo-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
+    </a>
+    <a href="https://open.spotify.com/user/lucassantos_skyfall">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" />
+    </a>
+  </p>
 
-## Um pouco sobre mim ⬇️⬇️⬇️
+</div>
 
-👨‍💼 Graduando de Engenharia de Software na UniFio de Ourinhos, tenho adquirido sólida trajetória como Analista de Dados no ramo de Telecom bem como nesses ambientes pude contribuir na gestão, melhoria e padronização de processos dentro do ambiente corporativo nos setores que fiquei envolvido como financeiro, contratos, operações e modelagem, estruturação e análise de dados. Ajudei a construir visão para as gestões envolvidas nos processos que aconteciam em seus setores e como resultado da minha última colocação no mercado, ajudei a reduzir uma média de encargos pagos pela empresa de R$ 3.000,00 para uma média menor que R$ 40,00. Possuo experiência em consulta, manipulação, transformação de dados e criação de relatórios através de ferramentas de BI como Metabase, Power BI e Looker Studio tanto gerenciais como operacionais.
-Busco atuar como Analista de Dados/BI Junior, Estagiário de Desenvolvimento de Software fullstack (Dev, PO ou UX|UI) ou Áreas de Negócio Financeiro. 
+---
 
-No momento tenho algumas habilidades, com a disciplina de ter uma rotina e estratégia de estudos tenho a oportunidade de aprimorá-las:
-- Tenho um grande desempenho com SQL em comandos DQL, DDL e DML em PostgreSQL, ainda sim estudando os demais DCL e DTL
-- Estou a um tempo usando python para conectar base de dados ao Power BI ou automatizar consultas e integração com planilhas
-- Utilizo a um bom tempo Figma para prototipar soluções e fluxos de informações
-- Power BI tenho um conhecimento bem amplo em nível junior/pleno (Em transição)
-- Utilizo bastante google sheets atrelado ao python para disponibilizar dados aos times que trabalho através da sua API.
+## Sobre mim
 
-![Lucas Data Analyst GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-santos-data-analyst&show_icons=true&theme=tokyonight)
+<table>
+<tr>
+<td valign="top" width="60%">
 
+Graduando em **Engenharia de Software** pela UniFio de Ourinhos, com sólida trajetória como **Analista de Dados no setor de Telecom**. Ao longo da minha carreira, contribuí com gestão, melhoria e padronização de processos nos setores financeiro, de contratos, operações, modelagem e análise de dados.
+Curso também na **Rocketseat** formação de dados, full stack, Metodologias Ágeis e Linguagens de programação para complementar meu conhecimento na Faculdade
+Participo também do Projeto do **BIT - Bureau de Inovação e Tecnologia** da UNIFIO como Engenheiro de Requisitos, Product Oowner e Designer UX|UI no desenvolvimento de aplicação mobile para atender o sistema de ensino do Colégio Santo Antônio de Ourinhos.
 
-## Tecnologias que utilizo no meu dia a dia 👇
+> 💡 Na minha última experiência, ajudei a reduzir uma média de encargos pagos pela empresa de **R$ 3.000,00 para menos de R$ 40,00/mês** — um resultado concreto de análise e automação de dados.
 
+Tenho experiência com ferramentas de BI como **Metabase**, **Power BI**, **Python**, **Google Apps Script**, **SQL** e  **Looker Studio**, criando relatórios gerenciais e operacionais.
 
-<div style="display: inline_block"><br/>
-    <h3>💽 Databases<h3>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
-    <p>____________________________________________<p>
-    <h3>⏳ Extract Transform and Load <h3>
-    <img align="center" alt="talend" src="https://img.shields.io/badge/Talend-FF6D70?style=flat&amp;logo=Talend&amp;&logoColor=white"/>
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/-Power%20Query-F2C811?style=flat&amp;logo=Power-Query&amp;logoColor=black">
-    <p>____________________________________________<p>
-    <h3>📊 Data Visualization <h3>
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&amp;logo=Power-BI&amp;logoColor=black">
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
-    <p>____________________________________________<p>
-    <h3>✒️ UI | UX Design <h3>
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white">
-    <p>____________________________________________<p>
-    <h3>⚔️ Skills <h3>
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-    <img align="center" alt="Dynamic JSON Badge" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
-    <p>____________________________________________<p>
+### 🎯 Buscando oportunidades como:
+- Analista de Dados / BI Júnior
+- Estagiário de Desenvolvimento Fullstack (Dev, PO ou UX/UI)
+- Áreas de Negócio Financeiro
+
+</td>
+<td valign="top" align="center" width="40%">
+
+<a href="https://app.rocketseat.com.br/me/lucas-adriano-dos-santos-09497">
+  <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=lucas-adriano-dos-santos-09497&type=card" width="240" alt="Lucas Adriano dos Santos's Rocket ID"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💽 Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### ⚙️ ETL — Extração, Transformação e Carga
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logo=Power-Query&logoColor=black)
+
+### 📊 Visualização de Dados
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+
+### 🎨 UI / UX Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+
+### 🧠 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go Language](https://img.shields.io/badge/Go%20Language-276DC3?style=flat-square&logo=Go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Java%20script-4285F4?style=flat-square&logo=javascript&logoColor=yellow)
+
+### Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-3776AB?style=flat-square&logo=Docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-3776AB?style=flat-square&logo=Grafana&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%20CD-3776AB?style=flat-square&logo=CICD&logoColor=white)
+
+---
+
+## 📈 Competências em destaque
+
+| Habilidade | Nível | Observação |
+|---|---|---|
+| SQL (DQL, DDL, DML) | ⭐⭐⭐⭐ | PostgreSQL · estudando DCL e DTL |
+| Python | ⭐⭐⭐⭐ | Automação, APIs, integração com BI |
+| Docker | ⭐⭐⭐⭐ | Ambientes de Desenvolvimento |
+| Go Language | ⭐⭐ | Começando a diversificar conhecimento |
+| Figma | ⭐⭐⭐⭐⭐ | Prototipação de soluções e fluxos |
+| Power BI | ⭐⭐⭐⭐ | Nível Júnior/Pleno (em transição) |
+| Google Sheets + API | ⭐⭐⭐⭐⭐ | Disponibilização de dados para times |
+
+---
+<div align="center">
+  <sub>Feito com ☕ e muita curiosidade por dados · Lucas Adriano</sub>
 </div>
