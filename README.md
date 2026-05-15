@@ -1,8 +1,10 @@
+
+
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif" width="28px" />
-  
-  # Olá, eu sou o Lucas Adriano! 👋
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&duration=3000&pause=500&color=FFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas;Sou+Analista+de+Dados;Estudo+Engenharia+de+Software)](https://git.io/typing-svg)
 
   **Analista de Dados · Engenharia de Software · UniFio Ourinhos (5/8)**
   
@@ -59,6 +61,9 @@ Tenho experiência com ferramentas de BI como **Metabase**, **Power BI**, **Pyth
 </td>
 </tr>
 </table>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucas-santos-data-analyst&theme=dark-smoky&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ## 🛠️ Tecnologias & Ferramentas
 
