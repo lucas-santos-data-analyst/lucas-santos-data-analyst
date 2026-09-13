@@ -62,6 +62,20 @@ Tenho experiência com ferramentas de BI como **Metabase**, **Power BI**, **Pyth
 </tr>
 </table>
 
+## Organização dos meus projetos
+
+Meus projetos estão organizados por Organizations do GitHub onde separo:
+```text
+├── 📁 Portfólio/    # Portfólio próprio que criei para demonstrar minhas habilidades técnicas
+├── 📁 Faculdade/    # Repos para armazenar os códigos e Projetos Integradores do Curso de Engenharia de Software da UNIFIO
+└── 📁 Rocketseat/   # Códigos e Projetos realizados baseados nos cursos da Rockeseat
+```
+Acesse: <br>
+- <a href="https://github.com/lucas-santos-data-analyst">Portfólio</a> <br>
+- <a href="https://github.com/orgs/Faculdade-UNIFIO-Engenharia-de-Software/repositories">Engenharia de Software UNIFIO</a> <br>
+- <a href="https://github.com/orgs/Rocketseat-Cursos/repositories">Rockeseat</a>
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucas-santos-data-analyst&theme=dark-smoky&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
@@ -111,5 +125,5 @@ Tenho experiência com ferramentas de BI como **Metabase**, **Power BI**, **Pyth
 
 ---
 <div align="center">
-  <sub>Feito com ☕ e muita curiosidade por dados · Lucas Adriano</sub>
+  <sub>Feito com ☕ e muita curiosidade por conhecimento · Lucas Adriano</sub>
 </div>
